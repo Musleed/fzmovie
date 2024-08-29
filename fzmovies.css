@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+#nav{
+    background-color: deepskyblue;
+    height: 65px;
+    width: auto;
+}
+#image{
+    width: 50px;
+    height: 50px;
+    margin: 9px 0px 0px 13px;
+    
+}
+#text{
+    align-items: center;
+    display: flex;
+    gap: 27px;
+    margin: 0px 0px 0px 50px;
+}
+.para{
+    color: white;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+#download{
+    width: 20px;
+    height: 20px;
+}
+#second{
+    background-color: white;
+    width: 1000px;
+    height: 810px;
+    margin: 30px 350px 0px 120px;
+    border-radius: 20px;
+    position: static;
+}
+#recent{
+    background-color: grey; 
+    height: 40px;
+    width: 1000px;
+    border-radius: 10px; ;
+}
+#blue{
+    height: 40px;
+    width: 120px;
+    background-color: darkblue;
+}
+#logo{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    float: none;
+}
+#second-flex{
+    display: flex;
+    gap: 780px;
+    align-items: center;
+}
+#show{
+    color: blue;
+}
+.video{
+    width: 220px;
+    height: 220px;
+    border: 5px black solid;
+}
+#barakat{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 7px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+#foot{
+    background-color: black;
+   width: 1210px;
+   height: 400px;
+   display: flex;
+   gap: 20px;
+}
+#footer{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    display: flex;
+    gap: 20px;
+    margin: 70px 0px 0px 950px;
+}
+#bata{
+    float: right;
+    margin-top: 20px;
+    margin-right: 500px;
+    font-size: 30px;
+}
+#ending{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+}
